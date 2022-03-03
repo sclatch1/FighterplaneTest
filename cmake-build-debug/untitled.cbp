@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="untitled"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ttt_debug">
+				<Option output="/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/ttt_debug" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/davidscalais/CLionProjects/ticTacToe/gtest/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 ttt_debug"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ttt_debug/fast">
+				<Option output="/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/ttt_debug" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/davidscalais/CLionProjects/ticTacToe/gtest/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 ttt_debug/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ttt">
+				<Option output="/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/ttt" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/davidscalais/CLionProjects/ticTacToe/gtest/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 ttt"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ttt/fast">
+				<Option output="/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/ttt" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/davidscalais/CLionProjects/ticTacToe/gtest/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 ttt/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/davidscalais/CLionProjects/ticTacToe/TicTacToe.cpp">
+			<Option target="ttt_debug"/>
+			<Option target="ttt"/>
+		</Unit>
+		<Unit filename="/Users/davidscalais/CLionProjects/ticTacToe/TicTacToe.h">
+			<Option target="ttt_debug"/>
+			<Option target="ttt"/>
+		</Unit>
+		<Unit filename="/Users/davidscalais/CLionProjects/ticTacToe/TicTacToeMain.cpp">
+			<Option target="ttt"/>
+		</Unit>
+		<Unit filename="/Users/davidscalais/CLionProjects/ticTacToe/TicTacToeTests.cpp">
+			<Option target="ttt_debug"/>
+		</Unit>
+		<Unit filename="/Users/davidscalais/CLionProjects/ticTacToe/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,4 @@
+/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/CMakeFiles/ttt_debug.dir
+/Users/davidscalais/CLionProjects/ticTacToe/cmake-build-debug/CMakeFiles/ttt.dir

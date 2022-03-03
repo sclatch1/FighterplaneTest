@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -Wall -Werror -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -pthread CMakeFiles/ttt.dir/Fighterplane.cpp.o CMakeFiles/ttt.dir/main.cpp.o CMakeFiles/ttt.dir/FighterplaneTest.cpp.o -o ttt   -L/Users/davidscalais/CLionProjects/ticTacToe/gtest/lib 

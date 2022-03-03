@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/davidscalais/CLionProjects/ticTacToe/Designbycontract.h
+assert.h
+-
+
+/Users/davidscalais/CLionProjects/ticTacToe/Fighterplane.cpp
+fstream
+-
+iostream
+-
+Fighterplane.h
+/Users/davidscalais/CLionProjects/ticTacToe/Fighterplane.h
+Designbycontract.h
+/Users/davidscalais/CLionProjects/ticTacToe/Designbycontract.h
+
+/Users/davidscalais/CLionProjects/ticTacToe/Fighterplane.h
+
